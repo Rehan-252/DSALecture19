@@ -26,7 +26,7 @@ public class Prifixsumquri_02 {
         printarry(arry);
         System.out.println("Enter the quries");
         int num = in.nextInt();
-    
+        
         while(num-- > 0){
             System.out.println("Enter Starting Index Number");
             int start = in.nextInt();
